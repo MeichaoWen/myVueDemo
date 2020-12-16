@@ -1,2 +1,2 @@
 # myVueDome
-Vue.js 平时练习的一些 dome 文件。
+Vue.js 平时练习的一些 demo 文件。
